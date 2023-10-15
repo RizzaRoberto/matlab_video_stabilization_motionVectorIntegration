@@ -5,6 +5,8 @@ More information can be found in the pdf called 'MVI'.
 
 Example:
 
+![cargif](https://github.com/JackPicche/matlab_video_stabilization_motionVectorIntegration/assets/147881208/9549f498-3497-4110-ba33-529a0c1e44da)
+
 
 https://github.com/JackPicche/matlab_video_stabilization_motionVectorIntegration/assets/147881208/46202748-c8cd-41b2-a22d-68da99a8621b
 
