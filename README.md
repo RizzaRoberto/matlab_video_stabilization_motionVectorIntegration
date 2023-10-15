@@ -8,11 +8,8 @@ Example:
 ![cargif](https://github.com/JackPicche/matlab_video_stabilization_motionVectorIntegration/assets/147881208/9549f498-3497-4110-ba33-529a0c1e44da)
 
 
-https://github.com/JackPicche/matlab_video_stabilization_motionVectorIntegration/assets/147881208/46202748-c8cd-41b2-a22d-68da99a8621b
-
-
 With Crop:
 
+![cargif_crop](https://github.com/JackPicche/matlab_video_stabilization_motionVectorIntegration/assets/147881208/358df99b-79ea-4840-b424-6e627f273626)
 
-https://github.com/JackPicche/matlab_video_stabilization_motionVectorIntegration/assets/147881208/0e705ba9-876c-488c-a4db-ea6a19e5c825
 
